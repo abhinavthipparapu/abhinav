@@ -29,7 +29,7 @@
 <br />
 
 <p>
-<img src="https://github-readme-stats.abhinavthipparapu.vercel.app/api?username=abhinavthipparapu&count_private=true&show_icons=true&theme=dracula" alt="stats"/>
+  [![Abhinav Thipparapu Stats](https://github-readme-stats.vercel.app/api?username=abhinavthipparapu)](https://github.com/abhinavthipparapu/github-readme-stats)
 </p>
 
 
