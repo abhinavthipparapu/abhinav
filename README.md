@@ -1,6 +1,6 @@
 ### Hi there, I'm [Abhinav Thipparapu][website] 👋
 
-## I'm a Forntend Web Developer!
+## I'm a Frontend Web Developer!
 
 - Aspiring Frontend Web Developer.
   Worked in projects and also collaborate in a team.Seeking opportunity to join an organization in a great
